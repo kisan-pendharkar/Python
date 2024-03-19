@@ -1,0 +1,17 @@
+import cv2 #for image processing
+import easygui #to open the filebox
+import numpy as np #to store image
+import imageio #to read image stored at particular path
+import sys
+import matplotlib.pyplot as plt
+import os
+import tkinter as tk
+from tkinter import filedialog
+from tkinter import *
+from PIL import ImageTk, Image
+
+""" fileopenbox opens the box to choose file
+and help us store file path as string """
+def upload():
+    ImagePath=easygui.fileopenbox()
+    cartoonify(ImagePath)
