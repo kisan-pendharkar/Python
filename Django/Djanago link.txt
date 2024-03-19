@@ -1,0 +1,36 @@
+Code snapshot repository: https://github.com/academind/django-practical-guide-course-code
+
+For this section, the branches starting with "prj-urls-views-templates-..." hold the code snapshots for this course module.
+https://github.com/academind/django-practical-guide-course-code/tree/prj-urls-views-templates-01-adding-urls-and-views
+
+Database notes:-
+https://academind.com/tutorials/sql-vs-nosql
+
+Bulk Operations
+Besides operations on individual model instances (i.e. deleting one model instance, updating one model instance etc), you can also perform bulk operations:
+
+You can delete multiple model instances (i.e. database records) at once: https://docs.djangoproject.com/en/3.1/topics/db/queries/#deleting-objects
+
+You can update multiple model instances (i.e. database records) at once: https://docs.djangoproject.com/en/3.0/ref/models/querysets/#bulk-update
+
+You can create multiple model instances (i.e. database records) at once: https://docs.djangoproject.com/en/3.0/ref/models/querysets/#bulk-create
+
+
+
+Code snapshot repository: https://github.com/academind/django-practical-guide-course-code
+
+For this section, the branches starting with "data-models-..." hold the code snapshots for this course module.
+
+For example: https://github.com/academind/django-practical-guide-course-code/tree/data-models-01-first-model-and-migration
+
+Module slides can be found in this branch: https://github.com/academind/django-practical-guide-course-code/tree/data-models-zz-extra-files/slides
+
+
+
+
+Useful Resources & Links
+Code snapshot repository: https://github.com/academind/django-practical-guide-course-code
+
+For this section, the branches starting with "admin-..." hold the code snapshots for this course module.
+
+For example: https://github.com/academind/django-practical-guide-course-code/tree/admin-01-configuring-model-fields/
